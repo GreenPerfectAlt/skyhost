@@ -1,0 +1,18 @@
+﻿<Window x:Class="skyhost.MainWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:skyhost"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStyle="ThreeDBorderWindow">
+
+    <Grid>
+        <Grid Background="#eeecea" HorizontalAlignment="Left" Height="380" Margin="0,43,0,0" VerticalAlignment="Top" Width="792">
+            <Grid HorizontalAlignment="Left" Height="380" Margin="576,0,0,0" VerticalAlignment="Top" Width="216"/>
+        </Grid>
+        <Grid Background="#21242d" HorizontalAlignment="Left" Height="43" VerticalAlignment="Top" Width="792"/>
+    </Grid>
+
+</Window>
